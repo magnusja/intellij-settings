@@ -1,0 +1,16 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.12 (~/Library/anaconda2/bin/python)" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+        <property name="last_opened_file_path" value="/usr/local/bin/python3" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
