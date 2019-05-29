@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>111</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tesseract'">
@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>129</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
