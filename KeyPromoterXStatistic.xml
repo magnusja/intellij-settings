@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>177</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Constant...">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>216</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -158,7 +158,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'pytest'</Description>
-          <Count>52</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tesseract'">
