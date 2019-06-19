@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>362</Count>
+          <Count>363</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -318,7 +318,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tune_doc_classification'</Description>
-          <Count>176</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tune_image_classification'">
@@ -406,7 +406,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tune_doc_classification'</Description>
-          <Count>193</Count>
+          <Count>198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tune_image_classification'">
