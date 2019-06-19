@@ -270,7 +270,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'nvfan'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pytest for tests.uni...'">
@@ -318,7 +318,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tune_doc_classification'</Description>
-          <Count>197</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tune_image_classification'">
@@ -406,7 +406,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tune_doc_classification'</Description>
-          <Count>229</Count>
+          <Count>235</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tune_image_classification'">
