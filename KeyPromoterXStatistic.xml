@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>333</Count>
+          <Count>338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Constant...">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>368</Count>
+          <Count>372</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -151,6 +151,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'dump_text'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'nvfan'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'nvfan'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'pytest in composite_test.py'">
@@ -313,6 +321,14 @@
           <Count>71</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'tune_bert_classification'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'tune_bert_classification'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'tune_doc_classification'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -366,7 +382,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'nvfan'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pytest in composite_test.py'">
@@ -399,6 +415,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tfidf'</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'tune_bert_classification'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'tune_bert_classification'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tune_doc_classification'">
