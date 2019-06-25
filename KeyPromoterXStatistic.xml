@@ -350,7 +350,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tune_image_classification'</Description>
-          <Count>119</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
