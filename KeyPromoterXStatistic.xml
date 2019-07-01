@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>390</Count>
+          <Count>393</Count>
         </Item>
       </Statistic>
       <Statistic Action="Constant...">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>408</Count>
+          <Count>409</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -326,7 +326,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tfidf'</Description>
-          <Count>112</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tune_bert_classification'">
@@ -430,7 +430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tfidf'</Description>
-          <Count>36</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tune_bert_classification'">
