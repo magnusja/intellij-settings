@@ -326,7 +326,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tfidf'</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tune_bert_classification'">
