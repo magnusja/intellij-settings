@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>409</Count>
+          <Count>411</Count>
         </Item>
       </Statistic>
       <Statistic Action="Constant...">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>427</Count>
+          <Count>428</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -334,7 +334,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'pytest'</Description>
-          <Count>125</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tesseract'">
@@ -374,7 +374,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tune_image_classification'</Description>
-          <Count>140</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -478,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tune_image_classification'</Description>
-          <Count>65</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -486,7 +486,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
