@@ -38,7 +38,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'pytest'</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tesseract'">
@@ -350,7 +350,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'pytest'</Description>
-          <Count>271</Count>
+          <Count>272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'sync'">
@@ -470,7 +470,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'pytest'</Description>
-          <Count>95</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sync'">
