@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>495</Count>
+          <Count>499</Count>
         </Item>
       </Statistic>
       <Statistic Action="Constant...">
@@ -166,7 +166,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -358,7 +358,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'pytest'</Description>
-          <Count>287</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'sync'">
