@@ -4,7 +4,7 @@
     <property name="created">2019-08-29T10:10:15</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-09-03T14:17:00</property>
+    <property name="modified">2019-09-04T12:20:45</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -300,7 +300,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
