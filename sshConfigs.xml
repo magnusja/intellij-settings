@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-18-225-37-200.us-east-2.compute.amazonaws.com" id="469f1a84-dcda-4370-b2ca-13c120c8db46" keyPath="$USER_HOME$/Downloads/aws.pem" port="22" customName="ubuntu@ec2-52-14-235-136.us-east-2.compute.amazonaws.com:22" nameFormat="CUSTOM" username="ubuntu" />
+    </configs>
+  </component>
+</application>
