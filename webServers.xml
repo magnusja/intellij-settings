@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="89cbd78f-dc7d-4054-9d8d-1c9728ab9de9" name="ubuntu@ec2-52-14-235-136.us-east-2.compute.amazonaws.com:22" url="http:///">
-        <fileTransfer accessType="SFTP" sshConfigId="469f1a84-dcda-4370-b2ca-13c120c8db46" sshConfig="ubuntu@ec2-52-14-235-136.us-east-2.compute.amazonaws.com:22" />
+        <fileTransfer accessType="SFTP" sshConfigId="b41e6c89-dad9-4360-a660-f6fe4fde9e62" sshConfig="ubuntu@ec2-52-14-235-136.us-east-2.compute.amazonaws.com:22" />
       </webServer>
     </option>
   </component>
