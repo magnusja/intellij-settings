@@ -1,10 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="accentColor" value="84ffff" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-752b4c90:16cdc6cd42c:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>
