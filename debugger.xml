@@ -85,6 +85,11 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
+      <debugger id="Rust">
+        <configuration>
+          <option name="lldbPath" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/intellij-rust/lldb" />
+        </configuration>
+      </debugger>
     </debuggers>
   </component>
 </application>
