@@ -4,17 +4,17 @@
     <property name="created">2019-08-29T10:10:15</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-10-18T14:01:48</property>
+    <property name="modified">2021-01-26T13:36:54</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -366,7 +366,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -2717,8 +2717,8 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="" />
-    <option name="Scala Type parameter" baseAttributes="" />
+    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="StandardF Java Collection">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
