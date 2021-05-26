@@ -1,5 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/usr/local/bin/fish" />
+    <option name="myShellIntegration" value="false" />
+    <option name="myShellPath" value="/usr/bin/fish" />
+    <option name="myTabName" value="Local" />
   </component>
 </application>
