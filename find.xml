@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.toml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -10,5 +11,6 @@
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.sql</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
