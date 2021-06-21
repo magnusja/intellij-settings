@@ -197,6 +197,11 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
+                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" />
+                    </value>
+                  </entry>
                   <entry key="MUnitRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
