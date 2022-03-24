@@ -92,7 +92,7 @@
       </debugger>
       <debugger id="Rust">
         <configuration>
-          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.2/intellij-rust/lldb" />
+          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/intellij-rust/lldb" />
         </configuration>
       </debugger>
     </debuggers>
